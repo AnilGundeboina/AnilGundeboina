@@ -16,3 +16,5 @@ I'm Anil Gundeboina
 📄 Know about my experience: My Resume
 
 ![image](https://github.com/AnilGundeboina/AnilGundeboina/assets/167597879/31666527-f24a-46fb-ae86-521db8f17858)
+💻 My Skills:
+Power BI    MySQL    Microsoft Excel    Python    NumPy    Pandas    Matplotlib    Tableau   R   Statistics
