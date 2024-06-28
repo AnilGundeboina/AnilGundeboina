@@ -3,7 +3,7 @@ I'm Anil Gundeboina
 
 😎 I am a "Data Analyst" Fresher.
 
-⭐ Passionate About "Data science and analysis".
+⭐ Passionate About "Data analysis".
 
 🔭 I’m currently working on Portfolio Projects.
 
